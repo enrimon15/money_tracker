@@ -1,2 +1,2 @@
-# third_app
+# Money Tracker - Flutter
  Money Tracker
